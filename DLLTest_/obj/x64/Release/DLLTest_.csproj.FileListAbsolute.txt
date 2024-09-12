@@ -1,0 +1,10 @@
+D:\AllProjects\CProject\ProjectFour\DLLTest_\bin\x64\Release\DLLTest_.exe.config
+D:\AllProjects\CProject\ProjectFour\DLLTest_\bin\x64\Release\DLLTest_.exe
+D:\AllProjects\CProject\ProjectFour\DLLTest_\bin\x64\Release\DLLTest_.pdb
+D:\AllProjects\CProject\ProjectFour\DLLTest_\obj\x64\Release\DLLTest_.csproj.AssemblyReference.cache
+D:\AllProjects\CProject\ProjectFour\DLLTest_\obj\x64\Release\DLLTest_.Form1.resources
+D:\AllProjects\CProject\ProjectFour\DLLTest_\obj\x64\Release\DLLTest_.Properties.Resources.resources
+D:\AllProjects\CProject\ProjectFour\DLLTest_\obj\x64\Release\DLLTest_.csproj.GenerateResource.cache
+D:\AllProjects\CProject\ProjectFour\DLLTest_\obj\x64\Release\DLLTest_.csproj.CoreCompileInputs.cache
+D:\AllProjects\CProject\ProjectFour\DLLTest_\obj\x64\Release\DLLTest_.exe
+D:\AllProjects\CProject\ProjectFour\DLLTest_\obj\x64\Release\DLLTest_.pdb

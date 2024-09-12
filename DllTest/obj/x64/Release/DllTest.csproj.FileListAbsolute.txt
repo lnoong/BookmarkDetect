@@ -1,0 +1,15 @@
+D:\AllProjects\CProject\ProjectFour\DllTest\bin\x64\Release\DllTest.exe.config
+D:\AllProjects\CProject\ProjectFour\DllTest\bin\x64\Release\DllTest.exe
+D:\AllProjects\CProject\ProjectFour\DllTest\bin\x64\Release\DllTest.pdb
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest.csproj.AssemblyReference.cache
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\MainWindow.g.cs
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\App.g.cs
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest_MarkupCompile.cache
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest_MarkupCompile.lref
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\MainWindow.baml
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest.g.resources
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest.Properties.Resources.resources
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest.csproj.GenerateResource.cache
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest.csproj.CoreCompileInputs.cache
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest.exe
+D:\AllProjects\CProject\ProjectFour\DllTest\obj\x64\Release\DllTest.pdb

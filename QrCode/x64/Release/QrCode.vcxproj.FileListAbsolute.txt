@@ -1,0 +1,2 @@
+D:\CProject\ProjectFour\QrCode\x64\Release\QrCode.exe
+D:\AllProjects\CProject\ProjectFour\QrCode\x64\Release\QrCode.dll

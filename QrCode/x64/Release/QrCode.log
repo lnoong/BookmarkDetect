@@ -1,0 +1,8 @@
+﻿  CodeScanner.cpp
+    正在创建库 D:\AllProjects\CProject\ProjectFour\QrCode\x64\Release\QrCode.lib 和对象 D:\AllProjects\CProject\ProjectFour\QrCode\x64\Release\QrCode.exp
+  正在生成代码
+  43 of 199 functions (21.6%) were compiled, the rest were copied from previous compilation.
+    38 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  QrCode.vcxproj -> D:\AllProjects\CProject\ProjectFour\QrCode\x64\Release\QrCode.dll
